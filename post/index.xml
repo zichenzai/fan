@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 樊的小家</title>
+    <link>http://localhost:1313/fan/post/</link>
+    <description>Recent content in Posts on 樊的小家</description>
+    <image>
+      <title>樊的小家</title>
+      <url>http://localhost:1313/fan/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/fan/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.137.1</generator>
+    <language>ch-cn</language>
+    <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fan/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo框架的搭建网站的博客</title>
+      <link>http://localhost:1313/fan/post/%E6%B5%8B%E8%AF%95%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%8D%9A%E5%AE%A2/hugo-website-setup/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fan/post/%E6%B5%8B%E8%AF%95%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%8D%9A%E5%AE%A2/hugo-website-setup/</guid>
+      <description>这是一篇详细介绍如何使用Hugo框架搭建个人网站的博客</description>
+    </item>
+    <item>
+      <title>中文 Test</title>
+      <link>http://localhost:1313/fan/post/%E4%B8%AD%E6%96%87-test/test-chinese/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fan/post/%E4%B8%AD%E6%96%87-test/test-chinese/</guid>
+      <description>这是一个副标题</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/fan/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fan/post/markdown-syntax/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://localhost:1313/fan/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fan/post/placeholder-text/</guid>
+      <description>Lorem Ipsum Dolor Si Amet</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:1313/fan/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fan/post/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/fan/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fan/post/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/fan/post/my-newarticle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fan/post/my-newarticle/</guid>
+      <description>&lt;h1 id=&#34;wf卡商&#34;&gt;wf卡商&lt;/h1&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/fan/fan/post/my-newarticle/bRWBcaZveq6swjn8MwKVISsVnAr2tf4ZHTSTU-eRA5Q=.svg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;前言：wf游戏赚钱商人模式实验，屯p卡卖，就是通过收垃圾的办法，已最低廉的价格收到换杜卡奥金币办法，然后买虚空商人的卡，在卖出p卡，不知道要等多久商品价格回归（第1场）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;mod-p卡370爆发装填-primex10&#34;&gt;&lt;strong&gt;mod p卡：&amp;quot;&lt;/strong&gt;(370)爆发装填 Prime**&amp;ldquo;x10**&lt;/h3&gt;
+&lt;h3 id=&#34;投入痛点收到时间20241104&#34;&gt;投入，痛点。=====================收到时间：2024/11/04&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;眼睛要瞎，要一个一个去wf工具里面查小于的，卖那种不值钱的。准备做程序可是他的杜卡奥金币工具，没有专门的api或者我没发现，是后渲染，先去拿主站的所有商品信息在通过什么&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;垃圾收垃圾的话收-18银垃圾-60金垃圾-多组10段下有福利优惠&#34;&gt;&lt;strong&gt;垃圾：（收垃圾的话“&lt;strong&gt;收 18/银垃圾 60/金垃圾 ，多组，10段下有福利，优惠&lt;/strong&gt;”）&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;银垃圾总价(20p)/组========1/白金~=(14)杜卡奥金币&lt;/li&gt;
+&lt;li&gt;金垃圾总价(60p)/组========1/白金~=(10)杜卡奥金币&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;数据变化&#34;&gt;&lt;strong&gt;数据变化&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;    2024/11/04&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/fan/fan/post/my-newarticle/ZLJYrpYyJ4Ypu4oPERL4AnZMx1CEcb3ngOHkUJBSpxc=.png&#34; title=&#34;2024/11/04，截至晚11点&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/fan/post/myfor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fan/post/myfor/</guid>
+      <description>&lt;h1 id=&#34;wf卡商&#34;&gt;wf卡商&lt;/h1&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/fan/fan/post/myfor/bRWBcaZveq6swjn8MwKVISsVnAr2tf4ZHTSTU-eRA5Q=.svg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;前言：wf游戏赚钱商人模式实验，屯p卡卖，就是通过收垃圾的办法，已最低廉的价格收到换杜卡奥金币办法，然后买虚空商人的卡，在卖出p卡，不知道要等多久商品价格回归（第1场）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;mod-p卡370爆发装填-primex10&#34;&gt;&lt;strong&gt;mod p卡：&amp;quot;&lt;/strong&gt;(370)爆发装填 Prime**&amp;ldquo;x10**&lt;/h3&gt;
+&lt;h3 id=&#34;投入痛点收到时间20241104&#34;&gt;投入，痛点。=====================收到时间：2024/11/04&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;眼睛要瞎，要一个一个去wf工具里面查小于的，卖那种不值钱的。准备做程序可是他的杜卡奥金币工具，没有专门的api或者我没发现，是后渲染，先去拿主站的所有商品信息在通过什么&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;垃圾收垃圾的话收-18银垃圾-60金垃圾-多组10段下有福利优惠&#34;&gt;&lt;strong&gt;垃圾：（收垃圾的话“&lt;strong&gt;收 18/银垃圾 60/金垃圾 ，多组，10段下有福利，优惠&lt;/strong&gt;”）&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;银垃圾总价(20p)/组========1/白金~=(14)杜卡奥金币&lt;/li&gt;
+&lt;li&gt;金垃圾总价(60p)/组========1/白金~=(10)杜卡奥金币&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;数据变化&#34;&gt;&lt;strong&gt;数据变化&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;    2024/11/04&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/fan/fan/post/myfor/ZLJYrpYyJ4Ypu4oPERL4AnZMx1CEcb3ngOHkUJBSpxc=.png&#34; title=&#34;2024/11/04，截至晚11点&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
